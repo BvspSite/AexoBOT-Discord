@@ -1,0 +1,19 @@
+{
+    "TOKEN": "YOUR_BOT_TOKEN_HERE",
+    "PREFIX": "&",
+    "MONGO_DB": "YOUR_MONGODB_CONNECTION_STRING_HERE",
+    "developer": [YOUR_DISCORD_USER_ID],
+    "XBOY" : [YOUR_DISCORD_USER_ID],
+    "bitzxier": [YOUR_DISCORD_USER_ID],
+    "cooldown": true,
+    "owner": [YOUR_DISCORD_USER_ID],
+    "mainmode": [YOUR_DISCORD_USER_ID],
+    "premium" : [YOUR_DISCORD_USER_ID],
+    "admin": [YOUR_DISCORD_USER_ID],
+    "np": [YOUR_DISCORD_USER_ID],
+    "invite": "https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&scope=bot+applications.commands&permissions=8",
+    "support" : "https://discord.gg/YOUR_SERVER_INVITE",
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```",
+    "extraowner": [YOUR_DISCORD_USER_ID]
+}
+
