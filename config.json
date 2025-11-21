@@ -1,0 +1,19 @@
+
+{
+    "TOKEN": "",
+    "PREFIX": "&",
+    "MONGO_DB": "mongodb+srv://xboykentu:kontolmemek11@cluster0.neymxyo.mongodb.net/xboybot?retryWrites=true&w=majority&appName=Cluster0",
+    "developer": [1437285672997093396],
+    "XBOY" : [1437285672997093396],
+    "bitzxier": [1437285672997093396],
+    "cooldown": true,
+    "owner": [1438131882834395198],
+    "mainmode": [1438131882834395198],
+    "premium" : [1438131882834395198],
+    "admin": [1437285672997093396],
+    "np": [1437285672997093396],
+    "invite": "https://discord.com/oauth2/authorize?client_id=1441499261110845573&scope=bot+applications.commands&permissions=8",
+    "support" : "https://discord.gg/pspeZ4bJeB",
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```",
+    "extraowner": [1437285672997093396]
+}
